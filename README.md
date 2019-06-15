@@ -1,6 +1,7 @@
 # Unlost
 Unlost - An open source luggage manager for airports <br/>
 __This project was made for the TIPE 2019 test__
+Coded by Youness Yachouti 
 
 This program can be used in airports to manage luggages, and prevent sending luggages to the wrong airplane and losing them.
 
